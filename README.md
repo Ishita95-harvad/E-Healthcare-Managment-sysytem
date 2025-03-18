@@ -1,4 +1,4 @@
-# github.com/Ishita95-harvad
+# ishitabahamnia.github.io
 
 **Welcome to My Portfolio Repository!** 🚀
 
