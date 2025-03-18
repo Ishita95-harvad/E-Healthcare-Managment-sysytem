@@ -1,4 +1,4 @@
-# ishitabahamnia.github.io
+# github.com/Ishita95-harvad
 
 **Welcome to My Portfolio Repository!** 🚀
 
@@ -33,6 +33,6 @@ For more details about my services, collaboration opportunities, or to discuss h
 
 **🔗 LinkedIn Service Page :** https://www.linkedin.com/services/page/942495333429368567/
 
-**🔗 Github Page:** https://github.com/Ishita95-harvad
+**🔗 Github Page:** http://ishitabahamnia.github.io
 
 **Thanks for reaching out.**
