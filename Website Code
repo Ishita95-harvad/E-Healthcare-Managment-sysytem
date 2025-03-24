@@ -1,6 +1,0 @@
-git clone https://github.com/your-username/ishitabahamnia.github.io
-cd ishitabahamnia.github.io
-# Add your HTML, CSS, JS files
-git add .
-git commit -m "Initial commit"
-git push origin main
