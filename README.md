@@ -28,16 +28,9 @@ We help businesses transform data into powerful insights and develop AI-powered 
 ✨ Natural Language Processing (NLP) & Chatbots – Enhance customer interactions with AI-driven automation.
 ✨ Business Intelligence & Data-Driven Insights – Unlock hidden patterns and opportunities in your data.
 
-📩 Book a Free Consultation Today!
-🔗 Contact Us on LinkedIn Page (https://www.linkedin.com/services/page/942495333429368567/)
-
-📩 Get in Touch – Let’s Build AI-Driven Success!
-🚀 Ready to transform your business with AI & Machine Learning? Let’s connect and discuss how our expertise can help you achieve your goals.
-
-📧 Email: bahamniaishita@gmail.com
 🌐 Website: [Your Website Link]
 🔗 LinkedIn:(https://www.linkedin.com/in/-ishitabahamnia-seniorresearchanalyst/)
-📞 Phone: +91 9717330692
+
 🔹 GitHub: https://github.com/Ishita95-harvad
 
 🚀 Let’s Build Your AI-Driven Success Story!
